@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Очистка приставки</string>
+    <string name="title">Память приставки</string>
+    <string name="btn_refresh">Обновить</string>
+    <string name="btn_clean">Выгрузить фоновые приложения</string>
+    <string name="btn_usage_access">Разрешить статистику</string>
+    <string name="no_usage_access">Нет доступа к статистике: нажмите «Разрешить статистику» и включите приложение.</string>
+    <string name="never_used">Не запускали</string>
+    <string name="days_ago">%d дн. назад</string>
+    <string name="running_bg">Работает в фоне</string>
+    <string name="system_app">Системное</string>
+    <string name="size_unknown">размер неизвестен</string>
+    <string name="cleaned_result">Выгружено процессов: %1$d. Свободно RAM: было %2$s, стало %3$s.</string>
+    <string name="memory_summary">RAM: свободно %1$s из %2$s · Хранилище: свободно %3$s из %4$s</string>
+    <string name="hint">Нажмите на приложение, чтобы открыть его настройки и вручную остановить или очистить кэш.</string>
+</resources>
